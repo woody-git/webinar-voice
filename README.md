@@ -10,6 +10,6 @@ I servizi sono integrati utilizzando due funzioni lambda, rispettivamente:
 
 Questa l'architettura di riferimento illustrata nel webinar
 
-
+<img src="https://github.com/woody-git/webinar-voice/blob/master/images/Solution%20Architecture.png?raw=true"/>
 
 Qui è possibile rivedere il webinar (previa registrazione): https://register.gotowebinar.com/register/626781397079402242
