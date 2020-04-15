@@ -1,4 +1,4 @@
-# Serverless solution per doppiaggio della voce
+# Serverless solution per craere un interprete automatico della voce
 
 Nel webinar che ho tenuto il 22 gennaio 2019, dal titolo <i>"Analisi di audio e testo con i servizi gestiti di AI/ML di AWS"</i>, ho illustrato come implementare una soluzione serverless per trascrivere (Amazon Transcribe) un audio mp4 in italiano, tradurlo (Amazon Translate) in inglese e creare l'equivalente text-to-speech (Amazon Polly).<br>
 
